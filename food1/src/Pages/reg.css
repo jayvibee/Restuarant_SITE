@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow:visible
+  }
+  .header5{
+    background-color: aliceblue;
+  }
+  .header-img5{
+    background-color: aliceblue;
+    display:inline-block ;
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .header-text5{
+position: absolute;
+width: 214px;
+height: 33px;
+left: 1014px;
+top: 200px;
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 33px;
+/* identical to box height, or 122% */
+color: green;
+background-color: aliceblue;
+  }
+  .inn{
+    position: absolute;
+    width: 214px;
+    height: 33px;
+    left: 900px;
+    top: 280px;
+    background-color: aliceblue;
+    border-radius: 5%;
+    margin-left: 5%;
+  }
+  .nam{
+    position: absolute;
+    background-color: aliceblue;
+    height: 35px;
+    width: 291px;
+    border: 1px solid sienna;
+    border-radius: 8px;
+  }
+.in{
+    position: absolute;
+    width: 214px;
+    height: 33px;
+    left: 900px;
+    top: 380px;
+    background-color: aliceblue;
+    border-radius: 5%;
+    margin-left: 5%;
+    
+  }
+  .put{
+    position: absolute;
+    background-color: aliceblue;
+    height: 35px;
+    width: 291px;
+    border: 1px solid sienna;
+    border-radius: 8px;
+  }
+  .pazz{
+    position: absolute;
+    width: 214px;
+    height: 33px;
+    left: 900px;
+    top: 480px;
+    background-color: aliceblue;
+    border-radius: 5%;
+    margin-left: 5%;
+    
+  }
+  .p1{
+    position: absolute;
+    background-color: aliceblue;
+    height: 35px;
+    width: 291px;
+    border: 1px solid sienna;
+    border-radius: 8px;
+  }
+  .boo{
+    position: absolute;
+    width: 284px;
+    height: 33px;
+    left: 900px;
+    top: 580px;
+    background-color: green;
+    border-radius: 5%;
+    margin-left: 5%;
+  }
+  .but{
+    position: absolute;
+    height: 35px;
+    width: 299px;
+    border: 1px solid sienna;
+    border-radius: 8px;
+    color: rgb(199, 247, 199);
+  }
+  .but:hover{
+    color: red;
+    transition: 1ms;
+  }
+  .z0{
+    position: absolute;
+    left: 900px;
+    top: 620px;
+    margin-left: 5%;
+    list-style: none;
+  }
+  .lo8{
+    background-color: aliceblue;
+  }
+  .a8{
+    background-color: aliceblue;
+    color: green;
+    list-style: none;
+  }
+  .lp{
+    background-color: aliceblue;
+    color: green;
+    list-style: none;
+  }
+ 

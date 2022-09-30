@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+  .header1{
+    background-color: aliceblue;
+    overflow: hidden;
+  }
+  .header-img1{
+    background-color: aliceblue;
+    display:inline-block ;
+    margin-left: 0;
+    margin-top: 0;
+    overflow: hidden;
+  }
+  .header-text1{
+position: absolute;
+width: 214px;
+height: 33px;
+left: 1014px;
+top: 200px;
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 33px;
+/* identical to box height, or 122% */
+color: green;
+background-color: aliceblue;
+  }
+.ino{
+    position: absolute;
+    width: 214px;
+    height: 33px;
+    left: 900px;
+    top: 250px;
+    background-color: aliceblue;
+    border-radius: 5%;
+    margin-left: 5%;
+    
+  }
+  .put{
+    position: absolute;
+    background-color: aliceblue;
+    height: 35px;
+    width: 291px;
+    border: 1px solid sienna;
+    border-radius: 8px;
+  }
+  .paz{
+    position: absolute;
+    width: 214px;
+    height: 33px;
+    left: 900px;
+    top: 350px;
+    background-color: aliceblue;
+    border-radius: 5%;
+    margin-left: 5%;
+    
+  }
+  .p1{
+    position: absolute;
+    background-color: aliceblue;
+    height: 35px;
+    width: 291px;
+    border: 1px solid sienna;
+    border-radius: 8px;
+  }
+  .boom{
+    position: absolute;
+    width: 284px;
+    height: 33px;
+    left: 900px;
+    top: 500px;
+    background-color: green;
+    border-radius: 5%;
+    margin-left: 5%;
+  }
+  .but{
+    position: absolute;
+    height: 35px;
+    width: 299px;
+    border: 1px solid sienna;
+    border-radius: 8px;
+    color: rgb(199, 247, 199);
+  }
+  .z8{
+    position: absolute;
+    left: 900px;
+    top: 610px;
+    margin-left: 5%;
+    list-style: none;
+  }
+  .lolo{
+    background-color: aliceblue;
+  }
+  .al{
+    background-color: aliceblue;
+    color: green;
+    list-style: none;
+  }
+  .aa{
+    background-color: aliceblue;
+    color: green;
+    list-style: none;
+  }
